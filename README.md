@@ -26,8 +26,6 @@
       <ul>
         <li>📚 Faculdade de Engenharia de Software</li>
         <li>💻 Lógica de programação e boas práticas</li>
-        <li>🧠 Uso de IA no dia a dia de dev</li>
-        <li>🔧 Suporte técnico e manutenção de hardware</li>
       </ul>
     </td>
   </tr>
@@ -38,11 +36,10 @@
 <h3 align="center">🧰 Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,github&theme=dark"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-141a2b?style=flat-square&logo=postgresql&logoColor=4A90E2"/>
   <img src="https://img.shields.io/badge/ChatGPT-141a2b?style=flat-square&logo=openai&logoColor=4A90E2"/>
   <img src="https://img.shields.io/badge/Gemini-141a2b?style=flat-square&logo=googlegemini&logoColor=4A90E2"/>
   <img src="https://img.shields.io/badge/Claude%20Code-141a2b?style=flat-square&logo=anthropic&logoColor=4A90E2"/>
@@ -63,18 +60,6 @@
 
 <br>
 
-<h3 align="center">📊 GitHub</h3>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=rhuansantos5&show_icons=true&theme=dark&hide_border=true&title_color=4A90E2&icon_color=6EA8FE&bg_color=00000000&v=1"/>
-    </td>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhuansantos5&layout=compact&theme=dark&hide_border=true&title_color=4A90E2&bg_color=00000000&v=1"/>
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=rhuansantos5&theme=dark&hide_border=true&ring=4A90E2&fire=6EA8FE&currStreakLabel=4A90E2&background=00000000"/>
